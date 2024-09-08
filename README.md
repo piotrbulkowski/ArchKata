@@ -3,4 +3,4 @@ This repository contains coding exercise projects to practice system design and 
 
 
 ## Resources
-1. [DNS](https://github.com/piotrbulkowski/ArchKata/DNS) - DNS resolver and forwarder, the first project in the repo that's WIP
+1. [DNS](https://github.com/piotrbulkowski/ArchKata/tree/main/DNS) - DNS resolver and forwarder, the first project in the repository.
