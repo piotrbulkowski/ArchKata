@@ -6,6 +6,10 @@
         <LangVersion>latest</LangVersion>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <IsPackable>false</IsPackable>
+        <Title>DNSResolver</Title>
+        <Authors>Piotr Bulkowski</Authors>
+        <RepositoryUrl>https://github.com/piotrbulkowski/ArchKata/tree/main/DNS/DNSResolver</RepositoryUrl>
     </PropertyGroup>
 
 </Project>
