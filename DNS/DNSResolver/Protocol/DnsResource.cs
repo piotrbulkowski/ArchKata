@@ -1,6 +1,6 @@
 ﻿namespace DNSResolver.Protocol;
 
-internal record DnsResource
+public record DnsResource
 {
     public byte[] Name { get; set; }
     public byte[] Type { get; set; }

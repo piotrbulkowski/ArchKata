@@ -3,7 +3,7 @@
 /// <summary>
 /// DNS header definition as specified in RFC 1035 4.1.1
 /// </summary>
-internal record DnsHeader
+public record DnsHeader
 {
     public ushort Id { get; set; }
     public bool Qr { get; set; } 

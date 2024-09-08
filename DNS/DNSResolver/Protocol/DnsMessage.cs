@@ -1,9 +1,9 @@
 ﻿namespace DNSResolver.Protocol;
 
-internal class DnsMessage
+public class DnsMessage
 {
     public DnsHeader Header { get; set; }
-    public DnsHeader Question { get; set; }
+    public DnsQuestion Question { get; set; }
     public DnsResource? Answer { get; set; }
     public DnsResource? Authority { get; set; }
     public DnsResource? Additional { get; set; }
